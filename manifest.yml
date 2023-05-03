@@ -1,5 +1,4 @@
-version: 0.8
-
+version: 0.2
 applications:
   - name: dotnet_core_hello_world
     random-route: true
